@@ -1,6 +1,8 @@
 # Vision Calculator ✋➕🧠  
 **Vision Calculator** is an air-handwriting recognition tool that uses **computer vision and hand tracking** to detect math expressions written in mid-air. Inspired by Apple Notes, this project lets users write mathematical equations with hand gestures, providing real-time computation without touching the keyboard.
 
+linkedln - https://www.linkedin.com/posts/vijinigiri-gowri-shankar_compuetervision-handtracking-opencv-activity-7321464320532385794-y6Hl?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEOGt5gB-inZKogxJE16RC3MCMV8L40E30M
+
 ## 🔧 Features
 
 - ✍️ **Write math expressions using hand gestures** via webcam  
